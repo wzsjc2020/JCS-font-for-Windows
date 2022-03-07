@@ -1,0 +1,19 @@
+StartChar: comma
+Encoding: 44 44 74
+Width: 400
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+100 200 m 1
+ 200 200 l 1
+ 200 100 l 1
+ 100 100 l 1
+ 100 200 l 1
+0 100 m 5
+ 100 100 l 5
+ 100 0 l 5
+ 0 0 l 5
+ 0 100 l 5
+EndSplineSet
+EndChar

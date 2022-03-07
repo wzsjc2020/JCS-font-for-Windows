@@ -1,0 +1,29 @@
+StartChar: O
+Encoding: 79 79 8
+Width: 600
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+100 700 m 1
+ 400 700 l 1
+ 400 600 l 1
+ 100 600 l 1
+ 100 700 l 1
+100 100 m 1
+ 400 100 l 1
+ 400 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+100 100 m 1
+ 0 100 l 1
+ 0 600 l 1
+ 100 600 l 1
+ 100 100 l 1
+400 100 m 1
+ 400 600 l 1
+ 500 600 l 1
+ 500 100 l 1
+ 400 100 l 1
+EndSplineSet
+EndChar
